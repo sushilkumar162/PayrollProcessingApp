@@ -1,3 +1,0 @@
-Department: Finance
-Total Payroll: $2970,00
-Highest Paid Employee: Jane Smith ($1050,00)
