@@ -91,15 +91,15 @@ dotnet test
 - **Finance_Report.txt**
   ```
   Department: Finance
-  Total Payroll: $2975.00
-  Highest Paid Employee: John Doe ($1020.00)
+  Total Payroll: $2970,00
+  Highest Paid Employee: Amit Bharti ($1050,00)
   ```
 
 - **HR_Report.txt**
   ```
   Department: HR
-  Total Payroll: $2690.00
-  Highest Paid Employee: Patricia Kim ($1008.00)
+  Total Payroll: $3421,00
+  Highest Paid Employee: Raghu Ram ($1235,00)
   ```
 
 - **ErrorLog.txt (if any validation errors are encountered)**
